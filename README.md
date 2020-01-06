@@ -1,6 +1,9 @@
 # fitness_app
+I have used Custom Painter, Animation,Gradient
 
 A new Flutter application.
+![fitness-app](https://user-images.githubusercontent.com/47901875/71845992-867edf00-30ef-11ea-8f4a-ed98fe1ba0ee.gif)
+
 
 ## Getting Started
 
